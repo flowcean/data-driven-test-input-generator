@@ -1,0 +1,193 @@
+dataset,volume,type
+Banknote Authentication,94409.37086433714,DTC Proportional
+Banknote Authentication,94381.71676548872,DTC Inverse
+Banknote Authentication,59908.006213817345,BVA Proportional
+Banknote Authentication,58386.32704798882,BVA Inverse
+Banknote Authentication,94380.11847395879,RS
+Banknote Authentication,149313.00329990557,BS
+Banknote Authentication,81539.4578007945,QBS
+Banknote Authentication,94609.49337431033,EBS
+Breast Cancer Wisconsin,559999993.3479598,DTC Proportional
+Breast Cancer Wisconsin,560943889.022627,DTC Inverse
+Breast Cancer Wisconsin,242027146058432.4,BVA Proportional
+Breast Cancer Wisconsin,140357302535628.73,BVA Inverse
+Breast Cancer Wisconsin,556342357.2339394,RS
+Breast Cancer Wisconsin,2.6278559941263292e29,BS
+Breast Cancer Wisconsin,256492103.4777091,QBS
+Breast Cancer Wisconsin,563160625.4367146,EBS
+Dry Bean,17577406037430.62,DTC Proportional
+Dry Bean,16886670222918.156,DTC Inverse
+Dry Bean,2.8981761751586286e24,BVA Proportional
+Dry Bean,2.1800392653732657e24,BVA Inverse
+Dry Bean,17482210897107.06,RS
+Dry Bean,3.5010450155334528e25,BS
+Dry Bean,7856268546755.1045,QBS
+Dry Bean,11133528336724.2,EBS
+Iranian Churn,1.2101298162064257e21,DTC Proportional
+Iranian Churn,1.1952374929171496e21,DTC Inverse
+Iranian Churn,1.208564673643328e21,BVA Proportional
+Iranian Churn,9.603070506406479e20,BVA Inverse
+Iranian Churn,1.2087889046751163e21,RS
+Iranian Churn,7.048460267356726e22,BS
+Iranian Churn,0.0,QBS
+Iranian Churn,1.1984029355377943e21,EBS
+Iris,131.84714710077594,DTC Proportional
+Iris,130.94853416173098,DTC Inverse
+Iris,149.88607280199386,BVA Proportional
+Iris,147.78287995502218,BVA Inverse
+Iris,122.19771201986299,RS
+Iris,855.3312832073227,BS
+Iris,114.199546505075,QBS
+Iris,122.34240000000004,EBS
+Mammography,3909001.605168337,DTC Proportional
+Mammography,3808615.554084429,DTC Inverse
+Mammography,805231.5932622605,BVA Proportional
+Mammography,814014.4411809724,BVA Inverse
+Mammography,3904239.474014324,RS
+Mammography,13152358.269352468,BS
+Mammography,3083503.7228783504,QBS
+Mammography,1994062.3922239223,EBS
+Phishing Websites,536870912.0,DTC Proportional
+Phishing Websites,536870912.0,DTC Inverse
+Phishing Websites,268435456.0,BVA Proportional
+Phishing Websites,268435456.0,BVA Inverse
+Phishing Websites,536870912.0,RS
+Phishing Websites,8.646911284551352e17,BS
+Phishing Websites,0.0,QBS
+Phishing Websites,536870912.0,EBS
+Pima Indians Diabetes,434681215967982.56,DTC Proportional
+Pima Indians Diabetes,431658264279094.06,DTC Inverse
+Pima Indians Diabetes,231182292159541.12,BVA Proportional
+Pima Indians Diabetes,227788615107118.75,BVA Inverse
+Pima Indians Diabetes,434803669072068.06,RS
+Pima Indians Diabetes,999778267856646.8,BS
+Pima Indians Diabetes,345329637256791.1,QBS
+Pima Indians Diabetes,435008817019782.7,EBS
+Seeds,219.95751097623096,DTC Proportional
+Seeds,219.64245557380767,DTC Inverse
+Seeds,10784.457354334318,BVA Proportional
+Seeds,9831.896836270176,BVA Inverse
+Seeds,219.0917515899187,RS
+Seeds,90876.21728732141,BS
+Seeds,172.2615163545364,QBS
+Seeds,219.8419849691871,EBS
+"Sonar, Mines vs. Rocks",1.1600723471873115e-22,DTC Proportional
+"Sonar, Mines vs. Rocks",1.1601459492485559e-22,DTC Inverse
+"Sonar, Mines vs. Rocks",2.6697209998406218e-11,BVA Proportional
+"Sonar, Mines vs. Rocks",2.8435784036508312e-11,BVA Inverse
+"Sonar, Mines vs. Rocks",1.0759105767875857e-22,RS
+"Sonar, Mines vs. Rocks",9.729871876041002e24,BS
+"Sonar, Mines vs. Rocks",1.440350922570104e-23,QBS
+"Sonar, Mines vs. Rocks",1.1011745149014424e-22,EBS
+Vertebral Column,2870688471912.46,DTC Proportional
+Vertebral Column,2854835074378.6394,DTC Inverse
+Vertebral Column,240122769538.15924,BVA Proportional
+Vertebral Column,236421883311.85138,BVA Inverse
+Vertebral Column,2794495901713.355,RS
+Vertebral Column,3144966239578.243,BS
+Vertebral Column,2428920080486.1753,QBS
+Vertebral Column,2800234991576.416,EBS
+Wireless Localisation,269949335040.0,DTC Proportional
+Wireless Localisation,269949335040.0,DTC Inverse
+Wireless Localisation,45694548900.0,BVA Proportional
+Wireless Localisation,43794580800.0,BVA Inverse
+Wireless Localisation,269949335040.0,RS
+Wireless Localisation,376556888400.0,BS
+Wireless Localisation,211382080000.0,QBS
+Wireless Localisation,262236496896.0,EBS
+Appliances Energy,1.1840200001388376e40,DTC Proportional
+Appliances Energy,1.0426359567346606e40,DTC Inverse
+Appliances Energy,3.590168823337214e38,BVA Proportional
+Appliances Energy,3.294341655087009e38,BVA Inverse
+Appliances Energy,2.0857602384623982e38,RS
+Appliances Energy,2.4238137932663038e40,BS
+Appliances Energy,8.202751473660572e37,QBS
+Appliances Energy,1.3066776661012641e38,EBS
+Body Fat,1.5219488769454454e20,DTC Proportional
+Body Fat,1.8179385648881708e20,DTC Inverse
+Body Fat,4.762726692476057e18,BVA Proportional
+Body Fat,4.3141815202605527e18,BVA Inverse
+Body Fat,6.691264134151386e18,RS
+Body Fat,3.723742674499182e20,BS
+Body Fat,3.523164366109045e18,QBS
+Body Fat,6.725971631832571e18,EBS
+Combined Cycle Power Plant,241986400.20957676,DTC Proportional
+Combined Cycle Power Plant,244685877.00501898,DTC Inverse
+Combined Cycle Power Plant,28808268.87279225,BVA Proportional
+Combined Cycle Power Plant,28426171.065392714,BVA Inverse
+Combined Cycle Power Plant,5969654.931293531,RS
+Combined Cycle Power Plant,705170443.1963062,BS
+Combined Cycle Power Plant,5420891.863800199,QBS
+Combined Cycle Power Plant,5711295.075186002,EBS
+Concrete Strength,8.300043873877792e19,DTC Proportional
+Concrete Strength,8.859458530289056e19,DTC Inverse
+Concrete Strength,2747523131954359.5,BVA Proportional
+Concrete Strength,2666732002664335.0,BVA Inverse
+Concrete Strength,6.320225717864434e18,RS
+Concrete Strength,1.391953698941436e20,BS
+Concrete Strength,4.176137684916989e18,QBS
+Concrete Strength,6.338063603158367e18,EBS
+Forest Fires,1.7519349132993674e16,DTC Proportional
+Forest Fires,1.7197186525450792e16,DTC Inverse
+Forest Fires,265710550688072.1,BVA Proportional
+Forest Fires,261151056224739.72,BVA Inverse
+Forest Fires,9149202108724854.0,RS
+Forest Fires,3.2093123136036477e25,BS
+Forest Fires,0.0,QBS
+Forest Fires,9173774488539300.0,EBS
+Liver Disorders,16630745040.0,DTC Proportional
+Liver Disorders,16301011900.0,DTC Inverse
+Liver Disorders,953971200.0,BVA Proportional
+Liver Disorders,953971200.0,BVA Inverse
+Liver Disorders,14836517080.0,RS
+Liver Disorders,54703896885.0,BS
+Liver Disorders,12110464080.0,QBS
+Liver Disorders,14836517080.0,EBS
+Parkinsons Telemonitoring,0.010357496097436688,DTC Proportional
+Parkinsons Telemonitoring,0.010154072227145495,DTC Inverse
+Parkinsons Telemonitoring,0.000053257313590589716,BVA Proportional
+Parkinsons Telemonitoring,0.00005261666369834989,BVA Inverse
+Parkinsons Telemonitoring,3.407522701259117e-6,RS
+Parkinsons Telemonitoring,599654260611.2196,BS
+Parkinsons Telemonitoring,2.1073488687976983e-6,QBS
+Parkinsons Telemonitoring,3.220410548571786e-6,EBS
+Real Estate Valuation,19792.367514021753,DTC Proportional
+Real Estate Valuation,19945.160626210087,DTC Inverse
+Real Estate Valuation,13.566850427174385,BVA Proportional
+Real Estate Valuation,13.525084103110759,BVA Inverse
+Real Estate Valuation,19797.9003880928,RS
+Real Estate Valuation,45063242.12611799,BS
+Real Estate Valuation,16464.761449663747,QBS
+Real Estate Valuation,19849.0678605447,EBS
+Superconductor Temperature,3.014327548943733e160,DTC Proportional
+Superconductor Temperature,2.90218514047261e160,DTC Inverse
+Superconductor Temperature,8.97555255524514e158,BVA Proportional
+Superconductor Temperature,8.314760766160164e158,BVA Inverse
+Superconductor Temperature,1.0036179533593844e160,RS
+Superconductor Temperature,3.3656236360819856e166,BS
+Superconductor Temperature,6.364001629706049e158,QBS
+Superconductor Temperature,4.662307624941048e158,EBS
+Seoul Bike Sharing Demand,356982676684803.5,DTC Proportional
+Seoul Bike Sharing Demand,350073080268740.3,DTC Inverse
+Seoul Bike Sharing Demand,42696173998.68252,BVA Proportional
+Seoul Bike Sharing Demand,41926033577.03476,BVA Inverse
+Seoul Bike Sharing Demand,117697767015647.39,RS
+Seoul Bike Sharing Demand,2.639818445782557e17,BS
+Seoul Bike Sharing Demand,0.0,QBS
+Seoul Bike Sharing Demand,114096146221314.62,EBS
+Wind Power,1177758778754027.2,DTC Proportional
+Wind Power,1184913601918838.2,DTC Inverse
+Wind Power,382318383122496.2,BVA Proportional
+Wind Power,382569577961010.8,BVA Inverse
+Wind Power,850176486005833.4,RS
+Wind Power,2237408603048389.2,BS
+Wind Power,723415920625691.8,QBS
+Wind Power,367403957569485.44,EBS
+Wind Speed,41532808.695838936,DTC Proportional
+Wind Speed,41069443.61293894,DTC Inverse
+Wind Speed,1763854.4546705158,BVA Proportional
+Wind Speed,1001618.9615586568,BVA Inverse
+Wind Speed,37298656.81880398,RS
+Wind Speed,235686823.89554557,BS
+Wind Speed,25491254.81652665,QBS
+Wind Speed,24776281.584000003,EBS

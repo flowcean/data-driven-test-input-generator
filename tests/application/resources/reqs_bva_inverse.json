@@ -1,0 +1,6 @@
+{
+    "test_coverage_criterium": "bva", 
+    "n_testinputs": 150, 
+    "inverse_alloc": true, 
+    "epsilon": 1.0
+}

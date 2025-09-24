@@ -1,0 +1,13 @@
+dataset,BVA Inverse,BVA Proportional,DTC Inverse,DTC Proportional,RS,BS,QBS,EBS
+Appliances Energy,94.0,121.78,72.29,70.13,67.78,83.63,14.73,19.69
+Body Fat,6.44,7.2,8.04,8.81,3.39,4.77,1.3,1.18
+Combined Cycle Power Plant,2.11,1.92,1.88,1.35,1.08,1.52,1.06,1.19
+Concrete Strength,19.27,18.54,15.82,16.01,13.89,18.02,6.46,4.67
+Forest Fires,8.54,6.11,4.4,5.52,6.25,16.54,3.57,4.52
+Liver Disorders,6.21,6.3,5.76,5.32,2.39,4.94,0.8,0.69
+Parkinsons Telemonitoring,61.19,65.03,50.81,39.86,12.04,22.74,3.62,2.88
+Real Estate Valuation,2.16,2.14,2.21,1.89,2.03,2.0,1.49,1.34
+Seoul Bike Sharing Demand,197.4,180.03,145.23,119.21,130.41,150.27,109.68,134.94
+Superconductor Temperature,15.39,12.7,13.98,13.3,13.17,24.15,8.93,7.4
+Wind Power,0.35,0.39,0.15,0.16,0.25,0.21,0.13,0.06
+Wind Speed,14.63,12.89,17.73,11.19,10.91,16.55,2.55,1.01

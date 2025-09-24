@@ -1,0 +1,5 @@
+{
+    "test_coverage_criterium": "dtc", 
+    "n_testinputs": 150, 
+    "inverse_alloc": false
+}
